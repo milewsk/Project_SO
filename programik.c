@@ -1,0 +1,1 @@
+// nasze funkcje do funkcjonowania i wywoływane w main
