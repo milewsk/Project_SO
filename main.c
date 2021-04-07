@@ -10,3 +10,5 @@
 // raz dwa trzy
 
 //test2
+
+// test komputer
